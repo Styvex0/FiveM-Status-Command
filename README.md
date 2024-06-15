@@ -14,6 +14,8 @@ i've sat the folder in for the external status file inside utils/status.js, this
 custom status, and fetching. theres 2 status.js commands, the main one outside the utils is supposed to be in a commands
 folder, for it to work like said.
 
+![Preview](https://cdn.discordapp.com/attachments/1251518801334374462/1251545221410324630/image.png?ex=666ef7d1&is=666da651&hm=00b0a4f0c22d46ef5758cacaca0c2f1c06f9ebdffb4bee51ec3b82b884a06f92&)
+
 ## License
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
