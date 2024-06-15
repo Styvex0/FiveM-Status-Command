@@ -10,6 +10,10 @@ your self if you want to integrate it into your main file.
 You will need a .env file for your config file, and then you'll need to place this 
 line into your dot env file: CFX_ID=" " <--- " the cfx ID of the fivem server example: "ejz4ma"
 
+i've sat the folder in for the external status file inside utils/status.js, this file is for updating of the 
+custom status, and fetching. theres 2 status.js commands, the main one outside the utils is supposed to be in a commands
+folder, for it to work like said.
+
 ## License
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
